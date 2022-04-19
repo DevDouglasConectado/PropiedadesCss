@@ -1,0 +1,23 @@
+/*Propiedade float sig: fluar*/
+#esquerda{
+    width: 200px;
+    height: 200px;
+    background: #000000;
+    float: left;
+}
+#direita{
+    width: 200px;
+    height: 300px;
+    background: #063;
+    float: right;
+    
+}
+#rodape{
+    width: 800%;
+    height: 150px;
+    background: #990000;
+    /*clear:left ;clear:right ;
+       para usar o clear para todos as tag, usar clear both:sig para ambos.
+    */
+    clear:both;
+}
