@@ -1,0 +1,19 @@
+#pai{
+    background: #000000;
+    width: 400px;
+    height: 400px;
+    float: right;
+     /*margin-top: 800px;*/
+}
+#filho{
+    background: green;
+    width: 250px;
+    height: 250px;
+   /* position: fixed;
+    left: 15px;
+    top: 15px;*/
+    /*position: relative; ele vai usar ponto de refencia dele mesmo*/
+    position: absolute;/* ele vai usar ponto de refencia de outro elementos */
+    top: 5px;
+    left: 10px;
+}
