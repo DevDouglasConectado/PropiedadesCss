@@ -1,0 +1,23 @@
+*{
+    margin:auto;
+}
+div{
+   width:500px ;
+   height: 500px;
+   background: #333;
+}
+p{
+    width: 250px;
+    height: 50px;
+    background: #330033;
+}
+h1{
+    width: 550px;
+    height: 100px;
+    background: #ff0000;
+}
+h2{
+    width: 180px;
+    height: 25px;
+    background: #c30;
+}
